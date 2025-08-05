@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GroceryPal</string>
+    <!-- Splash -->
+    <string name="loading">Loading...</string>
+
+    <!-- MainActivity -->
+    <string name="grocery_lists">Grocery Lists</string>
+    <string name="add_list">Add New List</string>
+
+    <!-- Add List -->
+    <string name="create_new_list">Create New List</string>
+    <string name="enter_list_name">Enter list name</string>
+    <string name="save_list">Save</string>
+
+    <!-- List Details -->
+    <string name="new_item">New item</string>
+    <string name="add_item">Add Item</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="reminder">Daily Reminder</string>
+
+    <!-- Notifications -->
+    <!--    <string name="reminder_title">GroceryPal Reminder</string>-->
+    <!--    <string name="reminder_text">Don't forget to check your grocery list today!</string>-->
+</resources>
